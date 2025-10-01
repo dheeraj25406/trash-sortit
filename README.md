@@ -112,8 +112,7 @@ python -m jupyter notebook .
   | Trash     | 0.89      | 0.90   |
 
 * **Confusion Matrix**: 
-![Confusion Matrix](results/confusion_matrix.png)
-
+<img src="./results/confusion_matrix.png" alt="confusion matrix" width="400">
 
 * **Observation**: Model performs well, slight confusion between plastic vs trash.
 
