@@ -110,7 +110,11 @@ python -m jupyter notebook .
   | Paper     | 0.94      | 0.93   |
   | Plastic   | 0.91      | 0.88   |
   | Trash     | 0.89      | 0.90   |
-* **Confusion Matrix**: ![Confusion Matrix](results/confusion_matrix.png)
+
+* **Confusion Matrix**: 
+![Confusion Matrix](results/confusion_matrix.png)
+
+
 * **Observation**: Model performs well, slight confusion between plastic vs trash.
 
 ---
